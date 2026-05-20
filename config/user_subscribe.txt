@@ -3,4 +3,5 @@ https://raw.githubusercontent.com/cloudplains/jnsj/refs/heads/main/tv202303.m3u
 https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u
 https://kakaxi.indevs.in/ipv4.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-curl https://ds65.tv1288.xyz -o tv.m3u
+
+# https://ds65.tv1288.xyz
