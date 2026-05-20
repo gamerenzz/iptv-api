@@ -1141,6 +1141,9 @@ CETV-4,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000012000283003/1.m3
 明珠台,https://live.catvod.com/live.php?id=mzt002
 明珠台,https://tv1288.xyz/tw.php?id=tvbmzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
+千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
@@ -1524,6 +1527,7 @@ IPTV经典电影,https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/r
 天映经典,https://live.catvod.com/live.php?id=Celestial2
 天映经典,https://live.catvod.com/live.php?id=ccm01
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
+天映频道,https://o11.163189.xyz/stream/live/typd/
 无线星河,http://tl.061833.xyz/tl/null-7
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
