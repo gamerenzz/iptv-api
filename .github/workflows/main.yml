@@ -47,6 +47,17 @@ jobs:
         run: pip3 install --user pipenv
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+      - name: Create local config directory
+        run: mkdir -p config/local
+      - name: Download DS65 Source
+        run: |
+          curl -L -s -f -A "curl/7.55.1" https://ds65.tv1288.xyz > config/local/ds65.m3u || echo "Download failed"
+          if [ -f config/local/ds65.m3u ]; then
+            if ! grep -q "#EXTM3U" config/local/ds65.m3u; then
+              echo "Downloaded file is not a valid M3U, removing..."
+              rm config/local/ds65.m3u
+            fi
+          fi
       - name: Update
         run: pipenv run dev
       - name: Commit and push if changed
