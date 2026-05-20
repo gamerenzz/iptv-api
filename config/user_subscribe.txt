@@ -74,7 +74,6 @@
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/tv.txt
 # https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv6.txt
-
 #分割
 #https://tmxk.pp.ua/iptv-cn.m3u
  #https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
@@ -113,16 +112,14 @@
 #https://raw.githubusercontent.com/zxmlxw520/5566/main/dsjcs7.txt
 #https://raw.githubusercontent.com/q1017673817/iptvz/62feb02f32ea7a3eb2939a24bb01cd4eebbe4ee3/txt/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt
 #https://raw.githubusercontent.com/yewengood/yahu/main/speedtest/gddx_fofa.txt
-
-
-https://9280.kstore.vip/newwex.json
+ # https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-http://www.饭太硬.com/tv
-http://肥猫.com/
-http://itv.s.odn.cc/m3u
 https://raw.githubusercontent.com/cloudplains/jnsj/refs/heads/main/tv202303.m3u
-https://ds65.tv1288.xyz
-http://12306.ct.ws/users/HKTV.txt
 https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u
 
- # https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+# https://9280.kstore.vip/newwex.json
+# http://www.饭太硬.com/tv
+# http://肥猫.com/
+# http://itv.s.odn.cc/m3u
+# https://ds65.tv1288.xyz
+# http://12306.ct.ws/users/HKTV.txt
