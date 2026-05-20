@@ -128,5 +128,3 @@ https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/ipv
 
 
 # https://iptv.yang-1989.eu.org/m3u/Gather.m3u
-# https://ds65.tv1288.xyz
-# https://ds65.tv1288.xyz
