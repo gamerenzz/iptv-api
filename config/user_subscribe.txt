@@ -114,6 +114,7 @@
 #https://raw.githubusercontent.com/yewengood/yahu/main/speedtest/gddx_fofa.txt
  # https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 https://raw.githubusercontent.com/cloudplains/jnsj/refs/heads/main/tv202303.m3u
 https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u
 
