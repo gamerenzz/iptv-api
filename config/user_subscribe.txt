@@ -111,5 +111,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/main/dsjcs7.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/62feb02f32ea7a3eb2939a24bb01cd4eebbe4ee3/txt/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt
 https://raw.githubusercontent.com/yewengood/yahu/main/speedtest/gddx_fofa.txt
+https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJoay5tM3UiLCJ1aWQiOjkxOTQ4MjcsInBpZCI6MzE2NDM4NjUsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tMTB0LTA0MyIsInJwIjoicmVwb3MvYjUvMjIvYjUyMjg3ODc0OTRkNWM4NTMwZDE1OTVjZjE2OTVlYzQ4NGY0Y2YyMGRkNGM4NWU3ZjViOGJiMjk1NDUwNTc1OS5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3OTI2ODIwMH0&signature=3wKdYIY06_bJF1MnV8IMKCf6GYMgMY2kws_HClo_IOc
 
  # https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
