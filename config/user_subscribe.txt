@@ -3,4 +3,3 @@ https://raw.githubusercontent.com/cloudplains/jnsj/refs/heads/main/tv202303.m3u
 https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u
 https://kakaxi.indevs.in/ipv4.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/ipv4/result.m3u
