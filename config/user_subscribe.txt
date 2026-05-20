@@ -117,6 +117,8 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 https://raw.githubusercontent.com/cloudplains/jnsj/refs/heads/main/tv202303.m3u
 https://raw.giteeusercontent.com/gamerenzz/fq/raw/master/hk.m3u
+https://ds65.tv1288.xyz UA="curl/8.4.0"
+
 
 # https://9280.kstore.vip/newwex.json
 # http://www.饭太硬.com/tv
