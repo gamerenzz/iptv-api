@@ -36,6 +36,7 @@ jobs:
           git checkout HEAD -- config/demo.txt
           git checkout HEAD -- config/epg.txt
           git checkout HEAD -- config/local.txt
+          git checkout HEAD -- config/local/
           git checkout HEAD -- config/subscribe.txt
           git checkout HEAD -- config/user_config.ini
           git checkout HEAD -- config/user_demo.txt
