@@ -1045,6 +1045,8 @@ CETV-4,http://clnas0001.top:9981/stream/channelid/676630329?profile=pass
 云南卫视,http://clnas0001.top:9981/stream/channelid/248916351?profile=pass
 云南卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227830/10000100000000060000000000304238_0.smil
 
+☘️湖北频道,#genre#
+
 🌊港·澳·台,#genre#
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -1083,6 +1085,9 @@ CETV-4,http://clnas0001.top:9981/stream/channelid/676630329?profile=pass
 明珠台,http://kaniptv.com/xz/xz.php?name=%E6%98%8E%E7%8F%A0%E5%8F%B0&index=0
 明珠台,https://tv123.cc.cd/live.php/?ch=bb01c5634
 明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
+明珠台,http://cdn6.163189.xyz/163189/mzt
+明珠台,https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
@@ -1213,6 +1218,9 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
 无线新闻,https://smart.946985.filegear-sg.me/smart.php?id=inews_twn
 无线新闻,http://kaniptv.com/xz/xz.php?name=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&index=0
+无线新闻,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+无线新闻,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
 三立新闻,https://tv.iill.top/4gtv/229
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
